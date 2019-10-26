@@ -1,2 +1,2 @@
 # weblecture
-this is readme
+connect server: ssh -p 3456 ubuntu@ip_of_real_machine
